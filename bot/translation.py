@@ -4,10 +4,8 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
-Iam work in movie hut malayalam group only😛 
-Join my channel and group 😛🥳
+    START_TEXT = """<b>ഹായ് {}!!</b>
+<i>ഞാൻ മൂവി hut മലയാളത്തിന് വർക്ക്‌ ചെയുന്ന അടിപൊളി ഓട്ടോ ഫിൽറ്റർ ബോട്ട് ആണ് വെറുതെ നോക്കി സമയം കളയണ്ട എന്നെ അതിൽ മാത്രം വർക്ക്‌ ആവൂ 
 @Movie_hut_group
 </i>"""    
     
@@ -46,7 +44,7 @@ Join my channel and group 😛🥳
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/THOMAS_MOVIE_HUT">THOMAS_MOVIE_HUT</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
