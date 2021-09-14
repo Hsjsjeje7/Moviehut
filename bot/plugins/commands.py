@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton('Group', url='https://t.me/movie_hut_group')
     ],[
-        (' ', callback_data="help")
+        ('', callback_data="help")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
